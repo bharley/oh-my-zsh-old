@@ -57,7 +57,7 @@ source $ZSH/oh-my-zsh.sh
 # -- Aliases
 # General
 alias ls='ls -FG --color'
-alias ll='ls -l'
+alias ll='ls -lh'
 alias la='ll -a'
 alias  l='ll'
 
